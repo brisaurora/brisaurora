@@ -20,23 +20,6 @@ Here are some ideas to get you started:
 
   
 
-<div align="center">I'm brisaurora, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+<div align="center">owner might be  regrouping my forces. 🚀</div>  
   
 
-- 🔭 I’m currently working on [ArkOS](https://github.com/brisaurora/ArkOS)  
-  
-
-- 🌱 I’m currently learning OS  
-  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
-
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brisaurora&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-![brisaurora's GitHub stats](https://github-readme-stats.vercel.app/api?username=brisaurora&show_icons=true&theme=transparent)
