@@ -19,7 +19,12 @@ Here are some ideas to get you started:
 -->
 
   
-
-<div align="center">owner might be  regrouping my forces. 🚀</div>  
-  
-
+<div>
+　　　　　　　　　　　　　　　　　　　　　　　　🔱 The battle has turned against my warriors.<br>
+　　　　　　　　　　　　　　　　　　　　　　　　⚔️ Templar, unleash your blades!<br>
+　　　　　　　　　　　　　　　　　　　　　　　　🤔 My Templar have taken a loss.<br>
+　　　　　　　　　　　　　　　　　　　　　　　　✨ My warriors could not hold.<br>
+　　　　　　　　　　　　　　　　　　　　　　　　😭 My forces have suffered great loss.<br>
+　　　　　　　　　　　　　　　　　　　　　　　　😡 The Shadow Guard waits.<br>
+　　　　　　　　　　　　　　　　　　　　　　　　🌀 I must regroup my forces.
+</div>
